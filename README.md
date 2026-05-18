@@ -1,54 +1,119 @@
-<h1 align="center">Hi 👋, I'm Rohan Patil</h1>
-<h3 align="center">CS Engineering Student | Full-Stack Developer | Stock Market Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Stock+Market+Enthusiast;Anime+%26+Music+Lover;Building+cool+projects+every+day" alt="Typing SVG" />
-</p>
+<!-- GLITCH NAME via custom SVG typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=ROHAN+PATIL;ECE+Student+%7C+Builder;Space+Nerd+%7C+Coder;Learning+%E2%86%92+Breaking+%E2%86%92+Shipping)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=x-rohanpatil&label=Profile%20views&color=0e75b6&style=flat" alt="x-rohanpatil" />
-</p>
+<br/>
 
----
+![ECE](https://img.shields.io/badge/ECE_'28-%2363b3ed?style=flat-square&logo=electron&logoColor=white)
+![Space](https://img.shields.io/badge/Space_Nerd-%230d1526?style=flat-square&logo=nasa&logoColor=white)
+![Builder](https://img.shields.io/badge/Builder-%23b794f4?style=flat-square&logo=hammer&logoColor=white)
+![Trader](https://img.shields.io/badge/Stock_Trader-%23f6ad55?style=flat-square&logo=yahoo-finance&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=x-rohanpatil&style=flat-square&color=63b3ed&label=profile+views)
 
-## 🚀 About Me
-- 🎓 First-year Computer Science Engineering student
-- 💻 Interested in full-stack development, cloud, and scripting
-- 📈 Exploring stock market trading and technical analysis
-- 🎬 Anime, music, content creation, and cool side projects
-- 🌱 Currently learning and building every day
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rohan_policepatil/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanpolicepatil)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RohanPolice8752)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohanpolicepatil911@gmail.com)
-
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=x-rohanpatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=x-rohanpatil&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=x-rohanpatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=x-rohanpatil&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-## 📌 Featured Focus
-- Full-stack development projects
-- Automation scripts and practical tools
-- Cloud and deployment exploration
-- Trading and analysis related experiments
+</div>
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=x-rohanpatil&icon=0&color=0)](https://visitcount.itsvg.in)
+## `$ cat about.json`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```json
+{
+  "name": "Rohan Patil",
+  "role": "ECE Student → Learning Full-Stack → Eventually everything",
+  "location": "Mysuru, Karnataka 🇮🇳",
+  "interests": [
+    "space-time physics",
+    "anime (Zoro respect 🗡)",
+    "speedcubing",
+    "stock markets + technical analysis",
+    "building chaotic side projects"
+  ],
+  "current_mission": "Learn. Break things. Ship it anyway.",
+  "community": "Cortex Minds — where deep thinkers live",
+  "mbti": "INTJ-T",
+  "os": "EndeavourOS + Windows (dual boot)",
+  "status": "🟢 open to collabs"
+}
+```
+
+---
+
+## `$ ls ./currently-building/`
+
+```
+📡  cortex-minds-discord/     → community server for deep thinkers
+📈  trading-experiments/      → charts, patterns, TA research
+🌌  physics-deep-dives/       → space-time, quantum, the good stuff
+🐍  python-scripts/           → automations, small tools, learning projects
+⚡  electronics-lab/          → ECE coursework + practical circuits
+```
+
+---
+
+## `$ cat tech-stack.txt`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1526?style=for-the-badge&logo=python&logoColor=68d391)
+![C](https://img.shields.io/badge/C-0d1526?style=for-the-badge&logo=c&logoColor=63b3ed)
+![HTML5](https://img.shields.io/badge/HTML5-0d1526?style=for-the-badge&logo=html5&logoColor=f6ad55)
+![CSS3](https://img.shields.io/badge/CSS3-0d1526?style=for-the-badge&logo=css3&logoColor=b794f4)
+
+**Tools & Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-0d1526?style=for-the-badge&logo=linux&logoColor=f6e05e)
+![Git](https://img.shields.io/badge/Git-0d1526?style=for-the-badge&logo=git&logoColor=fc8181)
+![Docker](https://img.shields.io/badge/Docker-0d1526?style=for-the-badge&logo=docker&logoColor=63b3ed)
+![VSCode](https://img.shields.io/badge/VSCode-0d1526?style=for-the-badge&logo=visual-studio-code&logoColor=63b3ed)
+![Google Cloud](https://img.shields.io/badge/GCP-0d1526?style=for-the-badge&logo=google-cloud&logoColor=68d391)
+
+**Currently Learning**
+
+![React](https://img.shields.io/badge/React-0d1526?style=for-the-badge&logo=react&logoColor=63b3ed)
+![Node.js](https://img.shields.io/badge/Node.js-0d1526?style=for-the-badge&logo=node.js&logoColor=68d391)
+![AWS](https://img.shields.io/badge/AWS-0d1526?style=for-the-badge&logo=amazon-aws&logoColor=f6ad55)
+
+---
+
+## `$ github --stats x-rohanpatil`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x-rohanpatil&theme=transparent&hide_border=true&title_color=63b3ed&text_color=a0aec0&icon_color=68d391&show_icons=true&count_private=true)
+
+![Streak](https://streak-stats.demolab.com/?user=x-rohanpatil&theme=transparent&hide_border=true&ring=63b3ed&fire=f6ad55&currStreakLabel=68d391&sideLabels=718096&dates=4a5568)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-rohanpatil&theme=transparent&hide_border=true&title_color=63b3ed&text_color=a0aec0&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## `$ ping cortex-minds`
+
+```
+> Community for deep thinkers, curious builders, and chaotic learners
+> Topics: AI, Space, Philosophy, Tech, Anime
+> Status: ONLINE ✅
+> Join: [discord link here]
+```
+
+---
+
+## `$ find /socials -type l`
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/instagram-%230d1526.svg?style=for-the-badge&logo=Instagram&logoColor=e2799a)](https://www.instagram.com/rohan_policepatil/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230d1526.svg?style=for-the-badge&logo=linkedin&logoColor=63b3ed)](https://www.linkedin.com/in/rohanpolicepatil)
+[![X](https://img.shields.io/badge/X-%230d1526.svg?style=for-the-badge&logo=X&logoColor=e2e8f0)](https://x.com/RohanPolice8752)
+[![Email](https://img.shields.io/badge/email-%230d1526.svg?style=for-the-badge&logo=gmail&logoColor=fc8181)](mailto:rohanpolicepatil911@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&pause=1000&color=4A5568&center=true&vCenter=true&width=500&lines=built+different+%E2%97%86+x-rohanpatil+%E2%97%86+2025" />
+</div>
