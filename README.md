@@ -1,24 +1,10 @@
 <h1 align="center">Rohan Police Patil</h1>
 
-p<p align="center">
+<p align="center">
   <img src="page-404-dark.gif" alt="Lost in Space" width="720">
 </p>
 
-
-
 ---
-
-```json
-{
-  "name": "Rohan Police Patil",
-  "location": "Mysuru (currently), Karnataka 🇮🇳",
-  "mbti": "INTJ-T",
-}
-```
-
----
-
-### `$ cat tech-stack.txt`
 
 **Languages**
 
@@ -34,8 +20,6 @@ p<p align="center">
 ![VSCode](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
 ---
-
-### `$ find /socials -type l`
 
 <div align="center">
 
