@@ -8,33 +8,15 @@
 
 ```json
 {
-  "name": "Rohan Patil",
-  "role": "CSE Student → Learning full-stack → Eventually everything",
-  "location": "Mysuru, Karnataka 🇮🇳",
-  "interests": [
-    "space-time physics",
-    "anime (Zoro supremacy 🗡)",
-    "speedcubing",
-    "stock markets + technical analysis",
-    "building chaotic side projects"
-  ],
-  "current_mission": "Learn. Break things. Ship it anyway.",
+  "name": "Rohan Police Patil",
+  "location": "Mysuru (currently), Karnataka 🇮🇳",
   "mbti": "INTJ-T",
-  "os": "EndeavourOS + Windows (dual boot)",
-  "status": "🟢 open to collabs"
 }
 ```
 
 ---
 
-### `$ ls ./currently-working-on/`
 
-```
-🐍  python-scripts/         →  automations, small tools, learning projects
-📈  trading-experiments/    →  charts, patterns, TA research  
-🌌  physics-deep-dives/     →  space-time, quantum, the good stuff
-⚡  electronics-lab/        →  CSE coursework + practical work
-```
 
 ---
 
