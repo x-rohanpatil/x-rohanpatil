@@ -1,5 +1,3 @@
-<h1 align="center">Rohan Police Patil</h1>
-
 <p align="center">
   <img src="page-404-dark.gif" alt="Lost in Space" width="720">
 </p>
