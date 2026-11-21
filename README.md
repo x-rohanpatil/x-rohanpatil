@@ -1,15 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="page-404-dark.gif" alt="Lost in Space" width="720">
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Rohan+Patil.;CSE+Student+%7C+Builder+%7C+Thinker.;Learning+%E2%86%92+Breaking+%E2%86%92+Shipping.)](https://git.io/typing-svg)
-
-<br/>
-
-![CSE](https://img.shields.io/badge/CSE_'28-0d1117?style=flat-square&logo=graduation-cap&logoColor=63b3ed&labelColor=0d1117&color=63b3ed)
-![Location](https://img.shields.io/badge/Mysuru,_India-0d1117?style=flat-square&logo=googlemaps&logoColor=68d391&color=68d391)
-![Status](https://img.shields.io/badge/open_to_collabs-0d1117?style=flat-square&logo=circle&logoColor=68d391&color=68d391)
-[![Profile Views](https://komarev.com/ghpvc/?username=x-rohanpatil&style=flat-square&color=b794f4&label=profile+views)](https://github.com/x-rohanpatil)
-
-</div>
+<h1 align="center">Rohan Patil</h1>
 
 ---
 
