@@ -4,7 +4,6 @@
   <img src="page-404-dark.gif" alt="Lost in Space" width="720">
 </p>
 
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4B8BBE)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=659AD2)
 
@@ -22,5 +21,3 @@
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rohanpolicepatil911@gmail.com)
 
 </div>
-
-
